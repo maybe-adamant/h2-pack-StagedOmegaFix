@@ -4,7 +4,7 @@ schemaVersion = "0.0.1"
 
 [package]
 namespace = "adamant"
-name = "adamant-StagedOmegaFix"
+name = "StagedOmegaFix"
 versionNumber = "1.0.0"
 description = "Fixes Axe OAtk, Blade OSpec not benefiting correctly from channeling bonus."
 websiteUrl = "https://github.com/maybe-adamant/h2-pack-StagedOmegaFix"
