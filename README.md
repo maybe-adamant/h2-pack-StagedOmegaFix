@@ -4,7 +4,7 @@
 
 ## Features
 
-- Fixes a bug that prevented channeling speed bonuses (e.g., from the "Uncanted" Arcana card) from correctly applying to the Axe's Omega Attack and the Blades' Omega Special.
+- Fixes a bug that prevented channeling speed bonuses from correctly applying to the Axe's Omega Attack and the Blades' Omega Special.
 - Allows these abilities to be charged faster when you have channeling speed upgrades.
 
 ## Installation
