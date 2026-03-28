@@ -27,7 +27,7 @@ public.definition = {
     tooltip  = "Fixes Axe OAtk, Blade OSpec not benefiting correctly from channeling bonus.",
     default  = true,
     dataMutation = true,
-    modpack = "h2-modpack",
+    modpack = "speedrun",
 }
 
 -- =============================================================================
